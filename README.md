@@ -1,2 +1,2 @@
-# ETSY-Product-Classification
-ETSY Machine learning Challenge- Product classification using multi-modal data
+# ETSY-Product-Classification using multimodal data
+ETSY Machine learning Challenge 2023 - Product classification using multi-modal data
